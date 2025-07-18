@@ -1,4 +1,4 @@
-# CSV Reader Component
+# CSV Reader  Component
 
 This React component allows users to upload a CSV file and displays its contents in a table format.
 
